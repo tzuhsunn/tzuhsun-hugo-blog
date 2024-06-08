@@ -2,38 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on TzuHsun&#39;s Blog</title>
-    <link>tzuhsunblog.web.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on TzuHsun&#39;s Blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 01:13:55 +0800</lastBuildDate>
-    <atom:link href="tzuhsunblog.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computer Network</title>
-      <link>tzuhsunblog.web.app/tags/computer-network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>tzuhsunblog.web.app/tags/computer-network/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firebase</title>
-      <link>tzuhsunblog.web.app/tags/firebase/</link>
+      <link>http://localhost:1313/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>tzuhsunblog.web.app/tags/firebase/</guid>
+      <guid>http://localhost:1313/tags/firebase/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>tzuhsunblog.web.app/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>tzuhsunblog.web.app/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NA</title>
-      <link>tzuhsunblog.web.app/tags/na/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>tzuhsunblog.web.app/tags/na/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

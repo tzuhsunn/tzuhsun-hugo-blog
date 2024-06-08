@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Firebase on TzuHsun&#39;s Blog</title>
-    <link>tzuhsunblog.web.app/tags/firebase/</link>
+    <link>http://localhost:1313/tags/firebase/</link>
     <description>Recent content in Firebase on TzuHsun&#39;s Blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 01:13:55 +0800</lastBuildDate>
-    <atom:link href="tzuhsunblog.web.app/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Set Up with PaperMod</title>
-      <link>tzuhsunblog.web.app/posts/hugo-posts/hugo-setup/hugo-setup/</link>
+      <link>http://localhost:1313/posts/blog/hugo-setup/</link>
       <pubDate>Sat, 08 Jun 2024 22:22:14 +0800</pubDate>
-      <guid>tzuhsunblog.web.app/posts/hugo-posts/hugo-setup/hugo-setup/</guid>
+      <guid>http://localhost:1313/posts/blog/hugo-setup/</guid>
       <description>Bluid a blog with Hugo, PaperMod &amp;amp; Firebase</description>
     </item>
   </channel>

@@ -3,10 +3,12 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
 pre {
     overflow: flow;
     max-height: 500px;
 }
+
 :root {
     --nav-width: 1380px;
     --article-width: 650px;
@@ -68,11 +70,12 @@ pre {
     padding: 0px 15px 15px 20px;
     font-size: 16px;
 
+    /*目录显示高度*/
     max-height: 83vh;
     overflow-y: auto;
 }
 
-.toc .inner::-webkit-scrollbar-thumb {  
+.toc .inner::-webkit-scrollbar-thumb {  /*滚动条*/
     background: var(--border);
     border: 7px solid var(--theme);
     border-radius: var(--radius);

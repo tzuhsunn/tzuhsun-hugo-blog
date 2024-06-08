@@ -1,4 +1,4 @@
-baseURL: "tzuhsunblog.web.app"
+baseURL: "https://tzuhsun-blog.web.app/"
 title: TzuHsun's Blog
 languageCode: en-us
 paginate: 10

@@ -2,46 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>tzuhsunblog.web.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/tags/computer-network/</loc>
-    <lastmod>2024-06-09T00:58:28+08:00</lastmod>
-  </url><url>
-    <loc>tzuhsunblog.web.app/tags/firebase/</loc>
+    <loc>http://localhost:1313/tags/firebase/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/posts/k8s-posts/k8s_install/</loc>
-    <lastmod>2024-06-09T00:58:28+08:00</lastmod>
-  </url><url>
-    <loc>tzuhsunblog.web.app/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/categories/hugo-note/</loc>
+    <loc>http://localhost:1313/categories/hugo-note/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/posts/hugo-posts/hugo-setup/hugo-setup/</loc>
+    <loc>http://localhost:1313/posts/blog/hugo-setup/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/tags/na/</loc>
-    <lastmod>2024-06-09T00:58:28+08:00</lastmod>
-  </url><url>
-    <loc>tzuhsunblog.web.app/categories/note/</loc>
-    <lastmod>2024-06-09T00:58:28+08:00</lastmod>
-  </url><url>
-    <loc>tzuhsunblog.web.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-09T01:13:55+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2024-06-08T22:39:24+08:00</lastmod>
   </url><url>
-    <loc>tzuhsunblog.web.app/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2024-06-09T00:07:41+08:00</lastmod>
   </url>
 </urlset>
