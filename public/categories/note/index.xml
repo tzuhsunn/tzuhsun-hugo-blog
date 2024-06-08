@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Note on TzuHsun&#39;s Blog</title>
+    <link>tzuhsunblog.web.app/categories/note/</link>
+    <description>Recent content in Note on TzuHsun&#39;s Blog</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:58:28 +0800</lastBuildDate>
+    <atom:link href="tzuhsunblog.web.app/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>tzuhsunblog.web.app/posts/k8s-posts/k8s_install/</link>
+      <pubDate>Sat, 08 Jun 2024 22:22:14 +0800</pubDate>
+      <guid>tzuhsunblog.web.app/posts/k8s-posts/k8s_install/</guid>
+      <description>NA final project https://nasa.cs.nycu.edu.tw/na/2024/slides/Final_Project.pdf
+帳號 Router IP: 103.69.93.22 Web IP: 103.69.93.23 Mail IP: 103.69.93.24 DNS IP: 103.69.93.25 Username: user Password: 5BPoJxNrAzvisMvx</description>
+    </item>
+  </channel>
+</rss>
