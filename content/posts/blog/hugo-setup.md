@@ -7,6 +7,7 @@ tags: ["Hugo", "Firebase"]
 categories: ["Hugo Note"]
 summary: "Bluid a blog with Hugo, PaperMod & Firebase"
 ---
+[超讚的參考](https://www.sulvblog.cn/posts/blog/build_hugo/)
 ## Installation
 [PaperMod Installation Guide](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)  
 安裝 Hugo
