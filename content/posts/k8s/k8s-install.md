@@ -331,7 +331,6 @@ k get pods
 ```
 
 ### **(Optional)** 安裝失敗/重裝cluster  
-[TODO]
-
+[重新安裝/設定 K8S](https://tzuhsun-blog.web.app/posts/k8s/k8s-reinstall/)
 
 
