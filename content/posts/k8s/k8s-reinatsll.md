@@ -1,6 +1,6 @@
 ---
-title: "Kubernetes Single Master Cluster Install (CRI-O, Debian 12, >v1.24)"
-date: 
+title: "Kubernetes reinstall note"
+date: 2024-08-26T02:18:35+08:00
 lastmod: 
 categories: 
 - Kubernetes
